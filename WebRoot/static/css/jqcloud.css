@@ -1,0 +1,73 @@
+/* fonts */
+
+div.jqcloud {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 10px;
+  line-height: normal;
+}
+
+div.jqcloud a {
+  font-size: inherit;
+  text-decoration: none;
+}
+
+div.jqcloud span.w10 { font-size: 650%; }
+div.jqcloud span.w9 { font-size: 600%; }
+div.jqcloud span.w8 { font-size: 550%; }
+div.jqcloud span.w7 { font-size: 500%; }
+div.jqcloud span.w6 { font-size: 450%; }
+div.jqcloud span.w5 { font-size: 400%; }
+div.jqcloud span.w4 { font-size: 350%; }
+div.jqcloud span.w3 { font-size: 300%; }
+div.jqcloud span.w2 { font-size: 250%; }
+div.jqcloud span.w1 { font-size: 200%; }
+
+div.jqcloud span.w10:hover { font-size: 700%; }
+div.jqcloud span.w9:hover { font-size: 650%; }
+div.jqcloud span.w8:hover { font-size: 600%; }
+div.jqcloud span.w7:hover { font-size: 550%; }
+div.jqcloud span.w6:hover { font-size: 500%; }
+div.jqcloud span.w5:hover { font-size: 450%; }
+div.jqcloud span.w4:hover { font-size: 400%; }
+div.jqcloud span.w3:hover{ font-size: 350%; }
+div.jqcloud span.w2:hover { font-size: 300%; }
+div.jqcloud span.w1:hover { font-size: 250%; }
+
+
+/* colors */
+
+div.jqcloud { color: #801900; }
+div.jqcloud a { color: inherit; }
+div.jqcloud a:hover { color: #b32300; }
+div.jqcloud a:hover { color:  #b32300; }
+div.jqcloud span.w10 { color: #b32300
+; }
+div.jqcloud span.w9 { color:  #b32300
+; }
+div.jqcloud span.w8 { color:  #b32300
+; }
+div.jqcloud span.w7 { color:  #b32300
+; }
+div.jqcloud span.w6 { color:  #cc2800
+; }
+div.jqcloud span.w5 { color:  #e62d00
+; }
+div.jqcloud span.w4 { color:  #ff3200
+; }
+div.jqcloud span.w3 { color:  #ff5b33
+; }
+div.jqcloud span.w2 { color:  #ff8466
+; }
+div.jqcloud span.w1 { color:  #ffad99
+; }
+
+div.jqcloud span:hover { font-weight: bold;}
+
+/* layout */
+
+div.jqcloud {
+  overflow: hidden;
+  position: relative;
+}
+
+div.jqcloud span { padding: 0; }
